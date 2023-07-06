@@ -1,2 +1,0 @@
-# CatchLisa
-Android application game
